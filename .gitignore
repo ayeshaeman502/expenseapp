@@ -1,0 +1,18 @@
+# Android/Java related files
+*.apk
+*.dex
+*.class
+/build/
+*.iml
+/local.properties
+
+# Android Studio specific
+/.idea/
+/.gradle/
+/captures/
+
+# Keystore files
+*.jks
+
+# Gradle Wrapper
+gradle-wrapper.jar

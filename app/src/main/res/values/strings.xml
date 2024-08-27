@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_summary">View Summary</string>
+    <string name="budget_management">Budget Management</string>
+    <string name="no_expenses">No expenses recorded.</string>
+    <string name="expense_category">Category</string>
+    <string name="expense_amount">Amount</string>
+</resources>
